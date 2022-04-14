@@ -1,0 +1,34 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 5vh auto;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+main {
+  height: 100%;
+  width: 90%;
+  margin: 4vh auto;
+  text-align: center;
+  font-family: 'Karla', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+
+}
+
